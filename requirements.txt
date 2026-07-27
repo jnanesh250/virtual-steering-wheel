@@ -4,5 +4,4 @@ pynput>=1.7.6
 numpy>=1.24.0
 <<<<<<< HEAD
 Python 3.11 >=py -3.11 -m venv venv
-=======
->>>>>>> 9ccf7aec86c9e39bd40531afa3da101f31e1aa03
+activate >=venv\Scripts\activate
